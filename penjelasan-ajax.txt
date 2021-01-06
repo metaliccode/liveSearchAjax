@@ -1,0 +1,8 @@
+ajax -> aSyncronous ...
+ajax membutuhkan fungsi object dari browser kita :
+berikut object diantaranya :
+XMLHttpRequest()
+
+Ajax -> hrs faham 
+- java script dasar
+- DOM 
